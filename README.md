@@ -1,3 +1,2 @@
 # StocksAI
-Historically speaking, if you can predict the daily bottom, there's a 95% chance you will double your money in a year.
-Unfortanately, if you buy even 1% high, it's more like a 65% chance you will 1.5x your money in a year...
+Historically, consistently buying a stock's daily low will yield 5% returns within the next 30 trading days with very high probability. By reinvesting the profit, this translates to approximately 150% returns for the year.
